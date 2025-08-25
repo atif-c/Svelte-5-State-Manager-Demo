@@ -1,0 +1,3 @@
+# Svelte 5 State Manager Demo
+
+Demo of [Svelte 5 State Manager](https://github.com/atif-c/Svelte-5-State-Manager)
